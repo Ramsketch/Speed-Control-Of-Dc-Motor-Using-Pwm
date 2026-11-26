@@ -82,11 +82,9 @@ analogWrite(MPin, Speed);
 
 <img width="790" height="554" alt="image" src="https://github.com/user-attachments/assets/e48c6a66-7942-4f9d-a04f-5919b5c66371" />
 
-<img width="45" height="105" alt="image" src="https://github.com/user-attachments/assets/4b7e28fa-8925-43a9-a8b3-5ec8cfd5b55e" />
 
 <img width="778" height="542" alt="image" src="https://github.com/user-attachments/assets/e0684bee-039a-4b7e-af2f-456506861ea6" />
 
-<img width="58" height="102" alt="image" src="https://github.com/user-attachments/assets/bee0433d-2ddd-478c-8c76-52dc9732b993" />
 
 
 # RESULT
